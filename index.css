@@ -1,0 +1,71 @@
+.menu{
+  
+    background-color:black;
+}
+.img{
+    
+    text-align: center;
+}
+.text {
+  
+ color:white ;
+}
+.search{
+margin-left: 950px;
+}
+.text1{
+    background-color: black;
+    color: white;
+    text-align: center;
+    
+}
+text{
+    display: flex;
+    
+}
+a:link {
+   
+    background-color: transparent;
+    text-decoration: none;
+  }
+  hr{
+    color: dimgray;
+  }
+  .text2{
+   
+    color: black;
+    text-align: center;
+    
+}
+.cards{
+    display: flex ;
+  text-align: center;
+    flex-wrap:wrap;
+}
+.card { 
+    margin :30px ;
+    width: 600px;
+    height: 100px;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+h6{
+    color: red;
+}
+.text3{
+    
+    border: 1px solid;
+    font-family: arial;
+}
+.text33{
+    margin: 5px;
+}
+.avart{
+    display: flex;
+}
+.cart p{
+    margin-left: 100px;
+    
+ color: black;   
+}
